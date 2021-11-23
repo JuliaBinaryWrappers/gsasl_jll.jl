@@ -1,0 +1,143 @@
+[[gsasl]]
+arch = "aarch64"
+git-tree-sha1 = "d88ea0f7d62dc5de4ee572992b6f58bbab6fd4a3"
+os = "macos"
+
+    [[gsasl.download]]
+    sha256 = "848595cabdc1c72c1bdc8f97076f537ddd594b369521b7c0a12ca722c83f34b5"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.aarch64-apple-darwin.tar.gz"
+[[gsasl]]
+arch = "aarch64"
+git-tree-sha1 = "123ac79943d8343d1640973bd106a0001bdec141"
+libc = "glibc"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "a0a645ce9737dd9e4fcdc158acc1ff3be7e5c97075f6b4f8cae0b0621e83ffc0"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.aarch64-linux-gnu.tar.gz"
+[[gsasl]]
+arch = "aarch64"
+git-tree-sha1 = "27cd132968a0bad83c5c07cc9721381c1b8a89b3"
+libc = "musl"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "d139ced869af09586174436f82f4477b1618ae5cafe5a2a69b1699ba2769e1c0"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.aarch64-linux-musl.tar.gz"
+[[gsasl]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "58e7d34e774f0496f71777d37223af8a714741a1"
+libc = "glibc"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "11695280252b04a5f35da825664a3b48d102a2a727446c93504faaa945435e9c"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.armv6l-linux-gnueabihf.tar.gz"
+[[gsasl]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c3cc1a481c07670307ee161baad59a310d62f572"
+libc = "musl"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "ff61579009741fa7a841f73e3a92680029866f9792a7cebaffb9332f23ce15a0"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.armv6l-linux-musleabihf.tar.gz"
+[[gsasl]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "594bc8be462c0f9fcc32fcc80e9e8a2b17a13cba"
+libc = "glibc"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "293d682818e0d26dc93753c169aeacd417025a802f5561acea37fe9258fd7b97"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.armv7l-linux-gnueabihf.tar.gz"
+[[gsasl]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "94b8bbbf23ca5aea1c6fe78ed607b443db35e1be"
+libc = "musl"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "f1b12565ce0b14d6a3db3a739e86535cd8de8158939c76889619341aea7d6ca8"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.armv7l-linux-musleabihf.tar.gz"
+[[gsasl]]
+arch = "i686"
+git-tree-sha1 = "865e004d834d231e93a76277d8f10cc9b1d74678"
+libc = "glibc"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "576f7bd2e5c99803e45491db4246ad5ae8d425c1b8cfa3c13871bad668ef8b61"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.i686-linux-gnu.tar.gz"
+[[gsasl]]
+arch = "i686"
+git-tree-sha1 = "ff6d3c6cb7cc0ce1205716b6d09b618b69c0990f"
+libc = "musl"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "332694acb3e9fa1b96b8434d441634d9c7870f55f1cf958523c80224bb43dfce"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.i686-linux-musl.tar.gz"
+[[gsasl]]
+arch = "i686"
+git-tree-sha1 = "d431e0b511b9e842af6fa6126a937ceb00988884"
+os = "windows"
+
+    [[gsasl.download]]
+    sha256 = "ff70c31716e2cef4fa9a7bf27d2895a1c97783f13d445991ec1feb5b90398626"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.i686-w64-mingw32.tar.gz"
+[[gsasl]]
+arch = "powerpc64le"
+git-tree-sha1 = "03434b0b1c3185c093c310452058e033312ecab0"
+libc = "glibc"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "45e37d9be6782fc160f93ec5ac3fdaccbabdffff7abcd9416d6f9f97adc75371"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.powerpc64le-linux-gnu.tar.gz"
+[[gsasl]]
+arch = "x86_64"
+git-tree-sha1 = "711bb6172da687e668ed07f4039a17753bfe870f"
+os = "macos"
+
+    [[gsasl.download]]
+    sha256 = "090521e8367d91ac433feb6c376ea1b99a459bd5ec57ef9a6b09e3207d2597fb"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.x86_64-apple-darwin.tar.gz"
+[[gsasl]]
+arch = "x86_64"
+git-tree-sha1 = "6ac0dcc41db11d364c4b43847313336c928be949"
+libc = "glibc"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "131408f6c24e175e55eb0d3b673716407d325ad17860c17485afa520bfaef4d4"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.x86_64-linux-gnu.tar.gz"
+[[gsasl]]
+arch = "x86_64"
+git-tree-sha1 = "05550fba68c96fd2b165fb750e2689da93a49f5b"
+libc = "musl"
+os = "linux"
+
+    [[gsasl.download]]
+    sha256 = "8b8af6ecc5f29116dfa3ff99b5724916ac802d983dcde3914ce0d04b12adc467"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.x86_64-linux-musl.tar.gz"
+[[gsasl]]
+arch = "x86_64"
+git-tree-sha1 = "5f18a36bb8c9b0202743304cda0f2d98e69928ca"
+os = "freebsd"
+
+    [[gsasl.download]]
+    sha256 = "8ec18581d97913d7eaf040e4dbd495f66c55b5aa02b0d875c41cffc7cad426b2"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.x86_64-unknown-freebsd.tar.gz"
+[[gsasl]]
+arch = "x86_64"
+git-tree-sha1 = "0506034fe9738078dc2e933f769c5f84d90d6772"
+os = "windows"
+
+    [[gsasl.download]]
+    sha256 = "bddf732a1f771d9582d3af9af093b0070e48df17fece57e6d5d9aa9ddc1a9983"
+    url = "https://github.com/JuliaBinaryWrappers/gsasl_jll.jl/releases/download/gsasl-v1.11.2+0/gsasl.v1.11.2.x86_64-w64-mingw32.tar.gz"
